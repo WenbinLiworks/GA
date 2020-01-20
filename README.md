@@ -1,5 +1,5 @@
 # GA
-Generic Algorithm for BP network optimization in Matlab
+[![stable](http://badges.github.io/stability-badges/dist/stable.svg)](http://github.com/badges/stability-badges)Generic Algorithm for BP network optimization in Matlab
 
 ### The purpose of the Optimization
 Although BP neural network performs well in handwritten numeral recognition, it can not be ignored that the weights and thresholds of BP neural network are initialized randomly, which is easy to lead to unstable fitting effect.
